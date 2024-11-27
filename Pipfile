@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+google-cloud-aiplatform = "*"
+google-cloud-bigquery = "*"
+streamlit = "*"
+gcsfs = "*"
+st-files-connection = "*"
+openpyxl = "*"
+pandas = "*"
+google-cloud-logging = "*"
+google-cloud-firestore = "*"
+bcrypt = "*"
+google-cloud-pubsub = "*"
+streamlit-extras = "*"
+st-annotated-text = "*"
+python-dotenv = "*"
+numpy = "*"
+google-auth = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
+requests = "*"
+colorama = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
